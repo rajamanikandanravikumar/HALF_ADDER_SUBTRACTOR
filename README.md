@@ -20,7 +20,6 @@ Sum = A’B+AB’ =A ⊕ B Carry = AB
 
 ![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/154305477/bd4a0b2c-cdbc-4184-ab08-81578f121e1f)
 
-Figure -01 HALF ADDER
 
 **Half Subtractor**
 
