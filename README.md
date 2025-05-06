@@ -79,6 +79,7 @@ endmodule
 ```
 
 **RTL Schematic**
+
 ![image](https://github.com/user-attachments/assets/8aa6cc29-468d-4b46-8ca0-0971a6da38e2)
 
 
